@@ -1,3 +1,5 @@
+喜加一
+
 日语
 Japanese
 
@@ -8,12 +10,14 @@ AI
 人工智能
 大模型
 !gai
+@10
 
 DeepSeek
 Kimi
 Grok
 GLM
 Qwen
+@10
 
 黑神话
 冯骥
@@ -27,6 +31,7 @@ Qwen
 google
 gemini
 deepmind
+@10
 
 chatgpt
 openai
@@ -38,6 +43,7 @@ Anthropic
 美国
 日本
 韩国
+@10
 
 科技
 
@@ -46,10 +52,3 @@ Anthropic
 水电站
 雅鲁藏布江
 
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
